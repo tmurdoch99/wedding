@@ -12,7 +12,6 @@ gem 'spring',        group: :development
 gem 'devise'
 gem 'pg'
 gem 'simple_form'
-gem 'mail_form'
 gem 'upmin-admin'
 group :development do
   gem 'better_errors'
